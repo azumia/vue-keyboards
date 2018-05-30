@@ -1,7 +1,7 @@
 {
   "name": "vue-keyboards",
   "description": "A Vue keyboard component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "azumia <azumia@qq.com>",
   "license": "MIT",
   "main": "dist/vueKeyboards.js",

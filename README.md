@@ -7,9 +7,9 @@
 
 ## demo演示
 
-![](https://user-gold-cdn.xitu.io/2018/5/30/163b04fd6743ebc6?w=424&h=752&f=gif&s=77556)
-![](https://user-gold-cdn.xitu.io/2018/5/30/163b04ff365abcfd?w=424&h=752&f=gif&s=61069)
-![](https://user-gold-cdn.xitu.io/2018/5/30/163b0500d63160f7?w=424&h=752&f=gif&s=57327)
+![](src\assets\000.gif)
+![](src\assets\001.gif)
+![](src\assets\002.gif)
 
 ## 安装
 
