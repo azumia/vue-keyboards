@@ -7,9 +7,9 @@
 
 ## demo演示
 
-![](src\assets\000.gif)
-![](src\assets\001.gif)
-![](src\assets\002.gif)
+![](src/assets/000.gif)
+![](src/assets/001.gif)
+![](src/assets/002.gif)
 
 ## 安装
 
